@@ -6,7 +6,7 @@ The skill track includes a series of courses aligned with the **learning content
 
 ---
 
-## 📚 Courses in This Track
+## Courses in This Track
 
 ### 1. **AWS SAA-C03: Exam Overview and Strategy**
 
@@ -93,7 +93,7 @@ Grow your AWS cost management skills.
 
 ---
 
-### 8. Real world use cases****
+### 8. **Real world use cases**
 **Description:**
 Sharpen AWS skills by applying real world congigurations to hands-on scenarios using AWS free tier resources.
 
