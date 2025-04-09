@@ -1,4 +1,8 @@
-# AWS Skill Track Plan
+# AWS Certified Solutions Architect - Associate (SAA-C03) Skill Track Plan
+
+Welcome to the AWS Certified Solutions Architect - Associate (SAA-C03) Skill Track! This track is designed to prepare learners to confidently pass the SAA-C03 certification exam and apply real-world AWS architectural skills in production environments.
+
+The skill track includes a series of courses that are supposed to be aligned with the **learning content domains** outlined in the official [AWS SAA-C03 Exam Guide](https://d1.awsstatic.com/training-and-certification/docs-sa-associate/AWS-Certified-Solutions-Architect-Associate_Exam-Guide.pdf). Each course builds toward mastering a domain through concise lessons, hands-on labs, and real-world scenarios.
 
 This is a reworked skill track with a more granular list of courses to provide focused learning paths across all key AWS topics.
 
