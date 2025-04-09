@@ -51,7 +51,7 @@ Discover the ways to organize secure access to AWS resources using Client VPN, S
 Learn how to securely connect to AWS services using interface and gateway endpoints.
 
 **Design Cost-Optimized network architectures**  
-Learn how to build cost-effective network connectivity solutions
+Learn how to build cost-effective network connectivity solutions.
 
 **Amazon S3 configuration**  
 Explore the key features and unique aspects of AWS Simple Cloud Storage.
@@ -63,10 +63,10 @@ Explore the available S3 features for versioning, replication, and lifecycle pol
 Explore the key features and unique aspects of Amazon Route 53.
 
 **AWS caching strategies**  
-Learn how to use Amazon CloudFront, Amazon ElastiCache and DynamoDB Accelerator
+Learn how to use Amazon CloudFront, Amazon ElastiCache and DynamoDB Accelerator.
 
 **AWS storage services**  
-Master your skills with EBS, EFS, Fsx and Storage Gateway
+Master your skills with EBS, EFS, Fsx and Storage Gateway.
 
 **Advanced Amazon EBS management**  
 Explore the key features and unique aspects of EBS.
@@ -84,13 +84,13 @@ Learn cost optimization best practices container-based compute services.
 Discover how AWS supports serverless adoption and get hands-on with AWS Lambda and Step Functions.
 
 **AWS messaging services**  
-Learn the difference between Amazon SNS, Amazon SQS and Amazon MQ
+Learn the difference between Amazon SNS, Amazon SQS and Amazon MQ.
 
 **API management with AWS**  
 Master your skills with Amazon API gateway.
 
 **AWS Cloud Databases**  
-Learn how to use main DB services: RDS, DynamoDB, RedShift
+Learn how to use main DB services: RDS, DynamoDB, RedShift.
 
 **RDS management**  
 Explore the key features and unique aspects of Amazon RDS.
@@ -129,13 +129,13 @@ Learn to deploy and manage web apps with Elastic Beanstalk, handling scaling, lo
 Learn how to monitor, audit, and evaluate the configurations of your AWS and third-party resources for security, compliance, and operational governance.
 
 **Protect access to your applications in AWS**  
-Discover AWS Secrets Manager abilities on protecting access to applications
+Discover AWS Secrets Manager abilities on protecting access to applications.
 
 **Disaster recovery strategies within AWS**  
-Learn disaster recovery best practices related to EBS, EC2, RDS, DynamoDB
+Learn disaster recovery best practices related to EBS, EC2, RDS, DynamoDB.
 
 **Monitoring, Logging and Auditing**  
-Practice your skills with CloudWatch, CloudTrail, EventBridge and X-Ray
+Practice your skills with CloudWatch, CloudTrail, EventBridge and X-Ray.
 
 **AWS services to secure applications**  
 Learn how to make your infrastructure secure with AWS Shield, AWS WAF and AWS Secrets Manager.
@@ -147,11 +147,10 @@ Learn how to encrypt data at rest using AWS Key Management Services with CloudHS
 Learn how to align AWS technologies to meet compliance requirements with Amazon GuardDuty and Amazon Macie.
 
 **Migration and Transfer with AWS**  
-Learn how to work with Application Discovery Service, DMS, MGN, AWS DataSync
+Learn how to work with Application Discovery Service, DMS, MGN, AWS DataSync.
 
 **Hybrid Cloud with AWS**  
-Learn how AWS Outpost and AWS Snowball can help deliver a consistent AWS experience wherever you need it
+Learn how AWS Outpost and AWS Snowball can help deliver a consistent AWS experience wherever you need it.
 
 **AWS cost management services**  
 Learn how AWS billing works and how to track costs using Cost Explorer, Budgets, and the Cost and Usage Report.
-
