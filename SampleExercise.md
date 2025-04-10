@@ -2,7 +2,7 @@
 
 ## Objective
 
-In this hands-on lab, you will build an Amazon API Gateway HTTP API that triggers a Lambda function. The function will convert a fixed amount of 1 USD into multiple other currencies using real-time conversion rates from an online source. You’ll test the API endpoint using the curl command-line tool. This exercise will help you validate your ability to create and configure one of the most common and powerful API Gateway setups.
+In this hands-on lab, you will build an HTTP API that triggers a Lambda function. The function will convert a fixed amount of 1 USD into multiple other currencies using real-time conversion rates from an online source. You’ll test the API endpoint using the curl command-line tool. This exercise will help you validate your ability to create and configure one of the most common and powerful API Gateway setups.
 
 ## Instructions
 
