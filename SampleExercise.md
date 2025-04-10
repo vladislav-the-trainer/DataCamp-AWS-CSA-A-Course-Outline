@@ -1,4 +1,4 @@
-# Sample Exercise: Integrate API Gateway with Lambda - Currency Converter
+# Sample Exercise: Invoking a Lambda function using an Amazon API Gateway - Currency Converter
 
 ## Objective
 
