@@ -54,11 +54,13 @@ It will not be possible to deploy the API until we create at least one stage. We
 * Choose the **dev** stage from the list and click **Deploy** button
 * Choose Windows menu in the lower left corner and click **Comand Prompt**
 * Execute the command inserting the link copied from buffer in the follwoing way:
+
 ```
 curl https://<api-id>.execute-api.<region>.amazonaws.com/dev/usd_converter
 ```
 
-If you see the output simmlar to this one, congratulations, you have completed the task:
+If you see an output similar to this one, congratulations—you have completed the task!
+
 ```
 {"amount": 1.0, "base": "USD", "date": "2025-04-09", "rates": {"AUD": 1.6651, "BGN": 1.7708, "BRL": 6.0548, "CAD": 1.4188, "CHF": 0.84002, "CNY": 7.3498, "CZK": 22.787, "DKK": 6.7623, "EUR": 0.90539, "GBP": 0.78257, "HKD": 7.7542, "HUF": 370.24, "IDR": 16944, "ILS": 3.8131, "INR": 86.67, "ISK": 131.37, "JPY": 144.51, "KRW": 1476.73, "MXN": 20.969, "MYR": 4.496, "NOK": 10.9728, "NZD": 1.7997, "PHP": 57.439, "PLN": 3.8889, "RON": 4.5067, "SEK": 10.024, "SGD": 1.3475, "THB": 34.505, "TRY": 38.01, "ZAR": 19.7157}}
 ```
