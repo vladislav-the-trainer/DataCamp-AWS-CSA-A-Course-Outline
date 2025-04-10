@@ -49,6 +49,8 @@ It will not be possible to deploy the API until we create at least one stage. We
 
 ### Step 6
 
+Finally, we can deploy our stage and check the result.
+
 * Copy the Invoke URL
 * Click **Deploy** button in the right upper corner
 * Choose the **dev** stage from the list and click **Deploy** button
